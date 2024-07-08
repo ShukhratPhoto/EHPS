@@ -133,7 +133,7 @@ body {
   opacity: .7;
 }
 
-#ig1 {
+#x1 {
   /* border: 1px solid red; */
   position: absolute;
   top: 20px;
@@ -141,7 +141,7 @@ body {
   /* opacity: .2; */
 }
 
-#tw1 {
+#web1 {
   /* border: 1px solid red; */
   position: absolute;
   top: 20px;
@@ -149,7 +149,16 @@ body {
   /* opacity: .2; */
 }
 
-#ln1 {
+#ig1 {
+  /* border: 1px solid red; */
+  position: absolute;
+  top: 210px;
+  /* opacity: .2; */
+  left: 55px;
+  
+}
+
+#fb1 {
   /* border: 1px solid red; */
   position: absolute;
   top: 210px;
@@ -159,18 +168,9 @@ body {
 }
 
 
-#lessons1 svg {
-  fill:white;
-  position: absolute;
-  height: 150px;
-  width: 125px;
-  color: white;
-  top: 210px;
-  left: 12%;
-  text-decoration: none;
-  color: white;
-  font-size: 3.20em;
-}
+
+
+
 
 
 .quadrant #ig1:hover, .quadrant #tw1:hover, .quadrant #ln1:hover, .quadrant #lessons1:hover {
